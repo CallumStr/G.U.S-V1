@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e21101f0e2fbc1c4db33c8b07e5b9106
+guid: 2eda24f184268314c8ea43ccf099d4e8
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -45,12 +45,12 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spriteGenerateFallbackPhysicsShape: 0
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -110,11 +110,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Little_Guss_0
+      name: GUSS-ID-0001_0
       rect:
         serializedVersion: 2
         x: 12
-        y: 65
+        y: 1
         width: 42
         height: 61
       alignment: 0
@@ -125,18 +125,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 08b654503b17c0c449a1b19ec413e136
-      internalID: 1944117611
+      spriteID: 2f9dd425bc9b9494b9d5fe869dcbffb7
+      internalID: -154087353
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little_Guss_1
+      name: GUSS-ID-0001_1
       rect:
         serializedVersion: 2
         x: 76
-        y: 65
+        y: 1
         width: 42
         height: 61
       alignment: 0
@@ -147,18 +147,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: df970ba6b081d204d8172781283b8b0c
-      internalID: -1158349703
+      spriteID: 7f498c1532606a44aa79acc5a9036e61
+      internalID: -664374368
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little_Guss_2
+      name: GUSS-ID-0001_2
       rect:
         serializedVersion: 2
         x: 140
-        y: 65
+        y: 1
         width: 42
         height: 61
       alignment: 0
@@ -169,20 +169,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11fcf715dedd9bf43a3f92c9847cd9d7
-      internalID: 1869938943
+      spriteID: 951fdba1e344a4b4aaa8aa8be3f3fa4c
+      internalID: -1312879249
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little_Guss_3
+      name: GUSS-ID-0001_3
       rect:
         serializedVersion: 2
         x: 204
-        y: 65
+        y: 1
         width: 42
-        height: 61
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -191,20 +191,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0ca43450d660a7142b4528eba5784e3a
-      internalID: -948808347
+      spriteID: 4297dfc28a9be2643ace553ce0ba432b
+      internalID: 517648557
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little_Guss_4
+      name: GUSS-ID-0001_4
       rect:
         serializedVersion: 2
         x: 268
-        y: 65
+        y: 1
         width: 42
-        height: 61
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,18 +213,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 239bfe9da3c75a541a2a13f2d53a69b9
-      internalID: 1050964672
+      spriteID: 45a07d2a1c550d74cab38bad81703f09
+      internalID: 150829201
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little_Guss_5
+      name: GUSS-ID-0001_6
       rect:
         serializedVersion: 2
         x: 332
-        y: 65
+        y: 1
         width: 42
         height: 61
       alignment: 0
@@ -235,18 +235,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 739e9b56b1cc17d4c8ed69454bfd7767
-      internalID: 557320792
+      spriteID: 37345ef1d7dd5b846abf700fa3ea97ef
+      internalID: -163943282
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little_Guss_6
+      name: GUSS-ID-0001_8
       rect:
         serializedVersion: 2
         x: 396
-        y: 65
+        y: 1
         width: 42
         height: 61
       alignment: 0
@@ -257,20 +257,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0878fa71bed163744b91e85fefb08a2d
-      internalID: 2041519841
+      spriteID: ddbad971f37e70046a76ae167b365248
+      internalID: -883354369
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little_Guss_7
+      name: GUSS-ID-0001_10
       rect:
         serializedVersion: 2
         x: 460
-        y: 65
+        y: 1
         width: 42
-        height: 61
+        height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -279,17 +279,17 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f56577b8fa7f5a9408322e9166f6328d
-      internalID: -811077702
+      spriteID: e1fa06aab524d454ca8e54896ddfbff4
+      internalID: -1261683641
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little_Guss_8
+      name: GUSS-ID-0001_11
       rect:
         serializedVersion: 2
-        x: 12
+        x: 524
         y: 1
         width: 42
         height: 61
@@ -301,20 +301,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b32f181f093df3e4a932c7d3915668b2
-      internalID: -304715140
+      spriteID: 7abb9c83fb378cd44bc940ead36e8ebd
+      internalID: 1085893373
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Little_Guss_9
+      name: GUSS-ID-0001_12
       rect:
         serializedVersion: 2
-        x: 75
+        x: 587
         y: 1
         width: 42
-        height: 61
+        height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -323,8 +323,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 127afb51c1b82c2488bfb07e05c82846
-      internalID: 1978903585
+      spriteID: 0a292b5e5a544b94c9737e0f030b28a4
+      internalID: -1540944759
       vertices: []
       indices: 
       edges: []
@@ -333,7 +333,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 70c0df9948c4cc54b8739609c7c1515f
+    spriteID: 1a60af1bff20eeb45b7c157dea73a752
     internalID: 0
     vertices: []
     indices: 
@@ -343,16 +343,27 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Little_Guss_0: 1944117611
-      Little_Guss_1: -1158349703
-      Little_Guss_2: 1869938943
-      Little_Guss_3: -948808347
-      Little_Guss_4: 1050964672
-      Little_Guss_5: 557320792
-      Little_Guss_6: 2041519841
-      Little_Guss_7: -811077702
-      Little_Guss_8: -304715140
-      Little_Guss_9: 1978903585
+      GUSS-ID-0001_0: -154087353
+      GUSS-ID-0001_1: -664374368
+      GUSS-ID-0001_10: -1261683641
+      GUSS-ID-0001_11: 1085893373
+      GUSS-ID-0001_12: -1540944759
+      GUSS-ID-0001_13: 1646512694
+      GUSS-ID-0001_14: 854990713
+      GUSS-ID-0001_15: 319505672
+      GUSS-ID-0001_16: -447072926
+      GUSS-ID-0001_17: 924900924
+      GUSS-ID-0001_18: -2003254672
+      GUSS-ID-0001_19: -1805455877
+      GUSS-ID-0001_2: -1312879249
+      GUSS-ID-0001_20: 868533059
+      GUSS-ID-0001_3: 517648557
+      GUSS-ID-0001_4: 150829201
+      GUSS-ID-0001_5: -1535142573
+      GUSS-ID-0001_6: -163943282
+      GUSS-ID-0001_7: -800623763
+      GUSS-ID-0001_8: -883354369
+      GUSS-ID-0001_9: 1787713620
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
